@@ -39,12 +39,12 @@ Urban Dictionary Web App, Urban Dictionary üzerindeki tanımları arayan ve gö
 
 1. Dosyayı bilgisayarınıza indirin:
 ```bash
-git clone https://github.com/yourusername/urban-dictionary-web-app.git
+git clone https://github.com/yourusername/urbandicwithoutbloat.git
 ```
 
 2. İndirdiğiniz klasöre gidin:
 ```bash
-cd urban-dictionary-web-app
+cd urbandicwithoutbloat.git
 ```
 3. HTML dosyasını bir web tarayıcısında açın.
 ## 🛠 Geliştirme
@@ -78,10 +78,6 @@ Made by shellshock with ❤️
 3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
 4. Branch'inize push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-## 📞 İletişim
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
 
 ## 📋 Yapılacaklar Listesi
 - [ ] Çoklu dil desteği
